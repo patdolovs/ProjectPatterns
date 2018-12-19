@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjekt", "TestProjekt\TestProjekt.csproj", "{7A4D019B-2A11-4E73-8F36-536C86F97A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreLib", "PostgreLib\PostgreLib.csproj", "{E744CCC0-F077-4740-BBED-93DAA00C0D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4D019B-2A11-4E73-8F36-536C86F97A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4D019B-2A11-4E73-8F36-536C86F97A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4D019B-2A11-4E73-8F36-536C86F97A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4D019B-2A11-4E73-8F36-536C86F97A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E744CCC0-F077-4740-BBED-93DAA00C0D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E744CCC0-F077-4740-BBED-93DAA00C0D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E744CCC0-F077-4740-BBED-93DAA00C0D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E744CCC0-F077-4740-BBED-93DAA00C0D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1445CE0A-859F-4F6C-AC19-0B3FDC282634}
+	EndGlobalSection
+EndGlobal
